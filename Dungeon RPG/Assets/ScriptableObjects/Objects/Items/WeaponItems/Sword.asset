@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f265f01ccbd5cbf4eb5978fb139613a4, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  itemID: 1
+  itemSprite: {fileID: 7743270298358050090, guid: 889f681a92d82ff418d818055be60652,
+    type: 3}
+  itemType: 0
+  itemClass: 1
+  level: 0
+  attackDamage: 10
+  attackRange: 1
+  isRanged: 0
+  level1AttackDamage: 20
+  level2AttackDamage: 30
+  level3AttackDamage: 40
