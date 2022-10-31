@@ -1,0 +1,4 @@
+
+# Baþlangýç menusu Yapýlmadý. 
+# Game Over sahnesi yapýlmadý.
+# level Dizayný yapýlmadý. 
